@@ -14,7 +14,7 @@ Garde la même structure et met a jour les infos qui changent. voici la présent
 ## CE QUE VOUS OBTENEZ :
 
 - **La Cuisine Totale Revive (Valeur : 406 000 F)**
-    - **2 repas par jour + 1 Jus Détox (7j/7)** : Une prise en charge nutritionnelle complète du lundi au dimanche. Fini les courses, la cuisine et la vaisselle. 56 repas gourmands et 28 jus pressés à froid livrés ou prêts à emporter.
+    - **2 repas par jour + 1 Jus Détox (7j/7)** : Une prise en charge nutritionnelle complète du lundi au dimanche. Fini les courses, la cuisine et la vaisselle. 56 repas gourmands et 28 jus detox livrés ou prêts à emporter.
 - **L'Entraînement "Brûle-Graisse" (Valeur : 168 000 F)**
     - 12 séances ciblées (Reformer, Mat, Cardio) conçues pour sculpter le corps et booster le métabolisme sans épuisement.
 - **L'App de Suivi "Revive Challenge" (Valeur : 45 000 F)**
