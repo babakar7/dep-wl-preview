@@ -23,7 +23,7 @@ const pillars = [
     ),
     title: "La Cuisine Totale Revive",
     description:
-      "2 repas par jour + 1 jus détox livrés 7j/7. Fini les courses, la cuisine et la vaisselle. 56 repas gourmands et 28 jus pressés à froid.",
+      "2 repas par jour + 1 jus détox livrés 7j/7. Fini les courses, la cuisine et la vaisselle. 42 repas gourmands et 21 jus detox.",
     value: "X",
   },
   {
@@ -50,7 +50,7 @@ const pillars = [
     ),
     title: "L'Entraînement Brûle-Graisse",
     description:
-      "12 séances ciblées : Reformer Pilates, Mat Pilates et Cardio. Sculptez votre silhouette sans vous épuiser.",
+      "9 séances ciblées : Reformer Pilates, Mat Pilates et Cardio. Sculptez votre silhouette sans vous épuiser.",
     value: "X",
   },
   {

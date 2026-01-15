@@ -27,7 +27,7 @@ export function Hero() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-4xl sm:text-5xl lg:text-6xl font-semibold text-[var(--foreground)] leading-tight"
           >
-            Perdez 6kg en 28 jours *
+            Perdez 6kg en 21 jours *
             <br />
             <motion.span
               initial={{ opacity: 0 }}
@@ -87,7 +87,7 @@ export function Hero() {
                 transition={{ duration: 0.4, delay: 1 }}
                 className="flex items-center gap-2"
               >
-                <span className="text-2xl font-semibold text-[var(--foreground)]">28</span>
+                <span className="text-2xl font-semibold text-[var(--foreground)]">21</span>
                 <span className="text-sm">jours de<br />transformation</span>
               </motion.div>
               <motion.div
@@ -96,7 +96,7 @@ export function Hero() {
                 transition={{ duration: 0.4, delay: 1.1 }}
                 className="flex items-center gap-2"
               >
-                <span className="text-2xl font-semibold text-[var(--foreground)]">12</span>
+                <span className="text-2xl font-semibold text-[var(--foreground)]">9</span>
                 <span className="text-sm">séances<br />sportives</span>
               </motion.div>
               <motion.div
@@ -105,7 +105,7 @@ export function Hero() {
                 transition={{ duration: 0.4, delay: 1.2 }}
                 className="flex items-center gap-2"
               >
-                <span className="text-2xl font-semibold text-[var(--foreground)]">56</span>
+                <span className="text-2xl font-semibold text-[var(--foreground)]">42</span>
                 <span className="text-sm">repas sains<br />livrés</span>
               </motion.div>
             </div>

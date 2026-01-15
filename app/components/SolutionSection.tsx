@@ -43,7 +43,7 @@ const solutions = [
     ),
     title: "Entraînements guidés",
     description:
-      "12 séances encadrées par nos coachs. Reformer, Mat Pilates et Cardio pour sculpter votre silhouette.",
+      "9 séances encadrées par nos coachs. Reformer, Mat Pilates et Cardio pour sculpter votre silhouette.",
   },
   {
     icon: (

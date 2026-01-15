@@ -20,14 +20,14 @@ const faqs = [
       "Lors du bilan nutritionnel initial, nous prenons en compte vos préférences et allergies alimentaires. Les menus sont adaptés à votre profil pour que vous appréciiez chaque repas.",
   },
   {
-    question: "Que se passe-t-il après les 28 jours ?",
+    question: "Que se passe-t-il après les 21 jours ?",
     answer:
       "Les diplômées du Protocole Revive ont accès à un tarif privilégié pour continuer pendant 1 mois avec notre abonnement. Vous pouvez poursuivre les entraînements et le suivi nutritionnel à un tarif préférentiel.",
   },
   {
     question: "Le paiement est-il en une fois ?",
     answer:
-      "Oui, le paiement se fait en une fois à l'inscription. Cela inclut l'intégralité du programme sur 28 jours ainsi que tous les bonus.",
+      "Oui, le paiement se fait en une fois à l'inscription. Cela inclut l'intégralité du programme sur 21 jours ainsi que tous les bonus.",
   },
   {
     question: "Où se déroulent les séances ?",

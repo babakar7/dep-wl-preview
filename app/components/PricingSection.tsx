@@ -6,8 +6,8 @@ import { Button } from "./ui/Button";
 import { Container } from "./ui/Container";
 
 const lineItems = [
-  { label: "La Cuisine Totale Revive (56 repas + 28 jus, 7j/7)", value: "X" },
-  { label: "12 séances d'entraînement", value: "X" },
+  { label: "La Cuisine Totale Revive (42 repas + 21 jus, 7j/7)", value: "X" },
+  { label: "9 séances d'entraînement", value: "X" },
   { label: "App de Suivi Revive Challenge", value: "X" },
   { label: "Suivi nutritionnel personnalisé", value: "X" },
   { label: "Suivi biométrique", value: "X" },
